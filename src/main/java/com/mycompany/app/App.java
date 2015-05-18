@@ -10,6 +10,7 @@ public class App
     {
        try{ Boolean bar = new Boolean("true");
         System.out.println( "Hello World!" );
+        System.out.println(":D");
 		} catch(Exception e) {
 		} finally {
 		return;
